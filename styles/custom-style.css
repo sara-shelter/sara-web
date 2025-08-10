@@ -172,8 +172,13 @@ body.with-bg::before {
     border-top: 2px solid #0001fc;
 }
 
+.text-justify {
+    text-align: justify !important;
+}
 
-
+.section_container {
+    margin-top: 170px;
+}
 
 /* .navbar-toggler {
     background-color: #ffff !important;
